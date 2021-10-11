@@ -1,7 +1,6 @@
 import { PopupButton } from "react-calendly";
 
 const ServiceCard = ({ img, title, price, packageIncludes, link }) => {
-  console.log(link);
   return (
     <div className="flex flex-col justify-between items-center m-2 bg-gray-100 rounded-2xl shadow-lg">
       <div className="h-96 w-full">
