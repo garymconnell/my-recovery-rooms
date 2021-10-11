@@ -1,0 +1,41 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.3",
+    "better-react-spinkit": "^2.0.4",
+    "firebase": "^8.9.0",
+    "geolib": "^3.3.1",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-calendly": "^2.2.1",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-map-gl": "^6.1.16",
+    "tailwind-scrollbar-hide": "^1.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  },
+  "name": "gary-recovery-room",
+  "description": "This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).",
+  "version": "1.0.0",
+  "main": "firebase.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukementon/gary-recovery-room.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lukementon/gary-recovery-room/issues"
+  },
+  "homepage": "https://github.com/Lukementon/gary-recovery-room#readme"
+}
